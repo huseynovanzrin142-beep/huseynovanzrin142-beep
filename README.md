@@ -1,4 +1,4 @@
-[Uploading README (6).md…]()
+
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/225813108-28ddeb34-74f5-4b00-941e-87ae6e88174f.gif" alt="header" width="100%"/>
