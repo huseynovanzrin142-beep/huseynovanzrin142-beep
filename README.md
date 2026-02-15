@@ -51,28 +51,9 @@
 </td>
 <td width="90%" align="left" valign="middle">
 
-## 📊 GitHub Statistics
 
-</td>
-<td>
-    <br>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huseynovanzrin142-beep&theme=midnight-purple&hide_border=true&background=0d1117&stroke=8b5cf6&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa)](https://git.io/streak-stats)
 
 </div>
-
-<br>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-</div>
----
 
 ## 🚀 About Me
 
