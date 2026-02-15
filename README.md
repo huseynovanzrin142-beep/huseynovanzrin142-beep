@@ -86,14 +86,8 @@ const nazrin = {
 ## 📊 GitHub Statistics
 
 </td>
-</tr>
-</table>
-
-<div align="center">
-
-</div>
-
-<br>
+<td>
+    <br>
 
 <div align="center">
 
@@ -102,6 +96,15 @@ const nazrin = {
 </div>
 
 <br>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+</div>
+
 
 
 
