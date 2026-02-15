@@ -225,27 +225,7 @@ Enterprise Resource Planning solution tailored for gastronomy businesses.
 
 ---
 
-<div align="center">
 
-### 🎨 Code is Art, Debugging is Poetry
-
-```python
-while coding:
-    if music.is_playing():
-        productivity += 100
-        creativity += 100
-        happiness += 100
-    
-    if stuck_on_problem:
-        take_break()
-        listen_to_music()
-        come_back_stronger()
-        
-    learn_something_new()
-    build_amazing_things()
-```
-
-</div>
 
 ---
 
