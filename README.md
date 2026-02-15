@@ -1,4 +1,3 @@
-
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/225813108-28ddeb34-74f5-4b00-941e-87ae6e88174f.gif" alt="header" width="100%"/>
@@ -238,20 +237,6 @@ Enterprise Resource Planning solution tailored for gastronomy businesses.
 </div>
 
 ---
-
-<div align="center">
-
-### ⚡ Fun Facts
-
-- 🎵 I code better with music on
-- 📚 Wattpad is my escape from debugging sessions  
-- 🔬 Quantum mechanics blows my mind daily
-- 🏐 I play volleyball but I'm no pro (yet!)
-- 🌍 Learning 3 languages at once (Azerbaijani, English, Russian)
-- ☕ Coffee + Code = Perfect Combo
-- 🎯 My goal: Bridge classical and quantum computing
-
-</div>
 
 ---
 
