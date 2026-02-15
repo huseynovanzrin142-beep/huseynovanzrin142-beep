@@ -50,10 +50,7 @@
 <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d4e000ff7a0b.gif" width="50"/>
 </td>
 <td width="90%" align="left" valign="middle">
-
-
-
-</div>
+</table>
 
 ## 🚀 About Me
 
