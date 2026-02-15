@@ -28,6 +28,16 @@
 
 <img src="https://komarev.com/ghpvc/?username=huseynovanzrin142-beep&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
+<br><br>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
+
 </div>
 
 ---
