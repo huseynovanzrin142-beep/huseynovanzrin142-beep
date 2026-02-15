@@ -70,40 +70,9 @@ const nazrin = {
     }
 };
 ```
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="300"/>
-</div>
 
-<br>
-
-<table align="center">
-<tr>
-<td width="10%" align="right" valign="middle">
 <img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d4e000ff7a0b.gif" width="50"/>
-</td>
-<td width="90%" align="left" valign="middle">
 
-## 📊 GitHub Statistics
-
-</td>
-<td>
-    <br>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=huseynovanzrin142-beep&theme=midnight-purple&hide_border=true&background=0d1117&stroke=8b5cf6&ring=a78bfa&fire=c084fc&currStreakLabel=a78bfa)](https://git.io/streak-stats)
-
-</div>
-
-<br>
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-</div>
 
 
 
