@@ -52,34 +52,6 @@
 <td width="90%" align="left" valign="middle">
 </table>
 
-## 🚀 About Me
-
-```javascript
-const nazrin = {
-    name: "Nəzrin Hüseynova",
-    age: 20,
-    location: "🇦🇿 Baku, Azerbaijan",
-    education: "Baku State University (BSU) - Public Relations",
-    codingJourney: "Started May 5, 2025 (~9 months ago)",
-    currentFocus: [
-        "Mastering SQL Database Design",
-        "Quantum Computing Fundamentals",
-        "AI & Machine Learning",
-        "Full-Stack Development"
-    ],
-    passions: [
-        "Coding 💻",
-        "Music 🎵", 
-        "Watching Series & Dramas 📺",
-        "Reading on Wattpad 📖",
-        "Playing Volleyball 🏐"
-    ],
-    lifePhilosophy: "If a person is determined and works hard, they can achieve anything. Fear and limits are just stereotypes.",
-    languages: {
-        native: "Azerbaijani 🇦🇿",
-        learning: ["English 🇬🇧", "Russian 🇷🇺"]
-    }
-};
 ```
 
 ---
