@@ -53,8 +53,7 @@
 </table>
 
 ```
-
----
+```
 
 ## 🌟 Featured Projects
 
@@ -116,23 +115,7 @@ Enterprise Resource Planning solution tailored for gastronomy businesses.
   <img src="https://img.shields.io/badge/Telegram-Nazrin_Huseynova-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40"/>
 </a>
 
-### 💬 I'm always open to:
-- Collaboration on interesting projects
-- Discussing quantum computing and AI
-- Learning from experienced developers
-- Helping others on their coding journey
 
-</div>
-
----
-
-## 🌈 Activity Graph
-
-<div align="center">
-
-[![Nazrin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huseynovanzrin142-beep&theme=react-dark&hide_border=true&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c084fc)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 
 
@@ -149,34 +132,6 @@ Enterprise Resource Planning solution tailored for gastronomy businesses.
 
 
 ---
-
-## 📈 Profile Stats
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huseynovanzrin142-beep&theme=github_dark)
-
-</div>
-
----
-
----
-
-<div align="center">
-
-### 💝 Support My Journey
-
-If you like my projects or found my code helpful, consider giving them a ⭐!
-
-*Every star motivates me to code harder and dream bigger* 🚀
-
-**Thanks for visiting! Let's build the future together!** ✨
-
----
-
-
-
-![Visitor Count](https://profile-counter.glitch.me/huseynovanzrin142-beep/count.svg)
 
 **Last Updated:** February 2026 | Made with 💜 from Baku, Azerbaijan 🇦🇿
 
