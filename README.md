@@ -120,30 +120,6 @@ Enterprise Resource Planning solution tailored for gastronomy businesses.
 
 <br>
 
-## 🎯 2026 Goals & Vision
-
-<div align="center">
-
-| 🎓 Learning Goals | 💻 Technical Goals | 🌐 Language Goals |
-|-------------------|-------------------|-------------------|
-| Master Quantum Computing | Build Advanced Full-Stack Apps | Achieve English Fluency |
-| Deep Dive into AI/ML | Learn Rust & Go | Learn Russian Language |
-| Advanced Mathematics | Master Redis & Java | Professional Communication |
-| Quantum Physics | Contribute to Open Source | Technical Writing |
-
-</div>
-
-### 🚀 What I'm Currently Working On
-
-```diff
-+ 🔬 Exploring quantum computing fundamentals and quantum algorithms
-+ 🤖 Building AI/ML projects and understanding neural networks
-+ 📚 Strengthening mathematics and physics foundation
-+ 💻 Developing full-stack applications with modern frameworks
-+ 🗣️ Improving English proficiency for technical communication
-+ 🧠 Solving complex algorithmic challenges
-```
-
 ---
 
 ---
