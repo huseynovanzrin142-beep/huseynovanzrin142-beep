@@ -41,60 +41,10 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="300"/>
 </div>
-
-<br>
-
-<table align="center">
-<tr>
-<td width="10%" align="right" valign="middle">
-<img src="https://user-images.githubusercontent.com/74038190/216644507-4f06ea29-bf55-4356-aac0-d4e000ff7a0b.gif" width="50"/>
-</td>
-<td width="90%" align="left" valign="middle">
-</table>
+<br><br>
 
 ```
 ```
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-### 🔹 HiringJobApp
-**Full-Stack Job Application Platform**
-
-A comprehensive hiring and job search application built with modern technologies.
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huseynovanzrin142-beep/HiringJobApp)
-
-**Tech Stack:** SQL | Python | C#
-
----
-
-### 🔹 Gastronomy ERP Lite
-**Restaurant Management System**
-
-Enterprise Resource Planning solution tailored for gastronomy businesses.
-
-[![View Project](https://img.shields.io/badge/View_on_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/huseynovanzrin142-beep/Gastronomy-Erp-Lite)
-
-**Tech Stack:** Database Design | Business Logic | Backend Development
-
----
-
-<a href="https://github.com/huseynovanzrin142-beep?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Projects-Click_Here-blueviolet?style=for-the-badge" />
-</a>
-
-</div>
-
-
-
-<br>
-
----
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
@@ -125,14 +75,10 @@ Enterprise Resource Planning solution tailored for gastronomy businesses.
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
-</div>
-
----
-
-
-
----
 
 **Last Updated:** February 2026 | Made with 💜 from Baku, Azerbaijan 🇦🇿
 
-</div>
+
+
+
+
