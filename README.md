@@ -8,7 +8,7 @@
 <tr>
 <td width="60%" align="left">
 
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hey there! I'm Nazrin Huseynova
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hey there! 
 
 </td>
 
@@ -33,24 +33,6 @@
 
 ```
 ```
-## 📫 Let's Connect!
-
-<div align="center">
-
-<a href="mailto:huseynovanzrin142@gmail.com">
-  <img src="https://img.shields.io/badge/Email-huseynovanzrin142@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40"/>
-</a>
-<a href="https://linkedin.com/in/-nazrinhuseynova-">
-  <img src="https://img.shields.io/badge/LinkedIn-Nazrin_Huseynova-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40"/>
-</a>
-
-<br><br>
-
-<a href="https://github.com/huseynovanzrin142-beep">
-  <img src="https://img.shields.io/badge/GitHub-huseynovanzrin142--beep-100000?style=for-the-badge&logo=github&logoColor=white" height="40"/>
-</a>
-
-
 
 
 <div align="center">
