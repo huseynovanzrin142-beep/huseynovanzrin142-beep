@@ -4,16 +4,11 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td width="60%" align="left">
+
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hey there! 
 
-</td>
 
-</tr>
-</table>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Quantum+Computing+%26+AI+Learner;Building+Digital+Solutions;Mathematics+%26+Physics+Enthusiast)](https://git.io/typing-svg)
 
@@ -30,9 +25,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
 
 </div>
-
-```
-```
 
 
 <div align="center">
