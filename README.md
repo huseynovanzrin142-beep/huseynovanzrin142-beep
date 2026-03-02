@@ -10,14 +10,8 @@
 
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> Hey there! I'm Nazrin Huseynova
 
-### 💻 Full-Stack Developer | 🔮 Quantum Computing Enthusiast | 🤖 AI Explorer
-
 </td>
-<td width="40%" align="right">
 
-<img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="280"/>
-
-</td>
 </tr>
 </table>
 
@@ -25,9 +19,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=huseynovanzrin142-beep&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-<br><br>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg" width="50" height="50"/>
@@ -61,22 +53,16 @@
 <a href="https://github.com/huseynovanzrin142-beep">
   <img src="https://img.shields.io/badge/GitHub-huseynovanzrin142--beep-100000?style=for-the-badge&logo=github&logoColor=white" height="40"/>
 </a>
-<a href="https://t.me/NazrinHuseynova">
-  <img src="https://img.shields.io/badge/Telegram-Nazrin_Huseynova-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40"/>
-</a>
 
 
 
-
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
 ![Snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 
-**Last Updated:** February 2026 | Made with 💜 from Baku, Azerbaijan 🇦🇿
+
 
 
 
