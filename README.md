@@ -23,6 +23,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
+<img src ="https://github.com/user-attachments/assets/814a8287-120a-4277-af4e-623012d9f25e"  width="50" height="50"/>
+
 
 </div>
 
